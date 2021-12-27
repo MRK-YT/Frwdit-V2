@@ -18,7 +18,7 @@ async def start(client, message):
         InlineKeyboardButton('📜 Support Group', url='https://t.me/Mo_Tech_Group'),
         InlineKeyboardButton('Update Channel ♻️', url='https://t.me/Mo_Tech_YT')
         ],[
-        InlineKeyboardButton('💡 Deploy', url='https://t.me/Mo_Tech_YT'),
+        InlineKeyboardButton('💡 Deploy', url='https://youtu.be/B6jQGOJDVi0'),
         InlineKeyboardButton('String Session 🎻', url ='https://youtu.be/WUN_12-dYOM')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
