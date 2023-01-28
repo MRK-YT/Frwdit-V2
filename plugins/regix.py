@@ -66,7 +66,6 @@ async def pub_(bot, message):
                         await asyncio.sleep(1)
                     except Exception as e:
                         print(e)
-                        pass
                     pling += 1
                     if pling == 10: 
                         buttons = [[
